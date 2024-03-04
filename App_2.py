@@ -1,9 +1,3 @@
-import os
-
-# Install seaborn using pip
-os.system('pip install seaborn')
-
-
 import streamlit as st
 import pandas as pd
 import seaborn as sns
